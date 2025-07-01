@@ -1,2 +1,2 @@
-# Meal-Management-System
+# Meal Management System
 Basic Software
